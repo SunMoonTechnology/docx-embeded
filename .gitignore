@@ -1,0 +1,15 @@
+# Bytecode / tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tools/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.docx
+!tests/fixtures/*.docx
+.DS_Store
